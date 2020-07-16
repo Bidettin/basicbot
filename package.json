@@ -1,0 +1,22 @@
+{
+  "name": "integrationbot",
+  "version": "1.0.0",
+  "description": "FiveM integration Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bidettin/integrationbot.git"
+  },
+  "author": "Bidetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bidettin/integrationbot/issues"
+  },
+  "homepage": "https://github.com/Bidettin/integrationbot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
