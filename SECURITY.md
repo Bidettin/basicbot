@@ -29,8 +29,8 @@ atualmente sendo suportado com atualizações de segurança.
 
 | Versão | Com suporte |
 | ------- | ------------------ |
-| v12x | : white_check_mark: |
-| v11x | : x: |
+| v12x | :white_check_mark: |
+| v11x | :x: |
 
 ## Relatando uma vulnerabilidade
 
